@@ -1,4 +1,4 @@
-USE [Office]
+Create Database Office
 GO
 /****** Object:  UserDefinedFunction [dbo].[fnTotalCustomers]    Script Date: 5/15/2025 12:21:14 PM ******/
 SET ANSI_NULLS ON
